@@ -1,0 +1,10 @@
+Aug 13, 2018 9:51:46 PM logging.UseLogger doSomeThingAndLog
+SEVERE: Info Log
+Aug 13, 2018 9:51:47 PM logging.UseLogger doSomeThingAndLog
+SEVERE: hey guys whats up
+Aug 13, 2018 9:51:47 PM logging.UseLogger doSomeThingAndLog
+SEVERE: Info Log
+Aug 13, 2018 9:51:47 PM logging.UseLogger doSomeThingAndLog
+WARNING: Info Log
+Aug 13, 2018 9:51:47 PM logging.UseLogger doSomeThingAndLog
+INFO: Info Log
